@@ -9,5 +9,5 @@
 # setup
 
 setup a python environment for geospatial analysis as per this tutorial:
-https://github.com/geopandas/scipy2018-geospatial-data
+[https://github.com/geopandas/scipy2018-geospatial-data](https://github.com/geopandas/scipy2018-geospatial-data)
 
